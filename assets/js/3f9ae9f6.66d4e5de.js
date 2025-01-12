@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3032],{8322:s=>{s.exports=JSON.parse('{"authors":[{"name":"wodsai","url":"https://wods.ai","title":"Writer @ wodsai","page":{"permalink":"/authors/wodsai"},"imageURL":"/img/authors/wods_logo_2.svg","key":"wodsai","count":4}]}')}}]);
