@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Probiotics and Recovery How Gut Health Supports Athletes","permalink":"/probiotics-and-recovery-gut-health-supports-athletes","unlisted":false,"date":"2025-03-16T00:00:00.000Z"}]}')}}]);
