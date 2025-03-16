@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How VR, AR, and Wearable Tech Are Revolutionizing Fitness Training","permalink":"/vr-ar-wearable-tech-fitness-training","unlisted":false,"date":"2025-03-16T00:00:00.000Z"}]}')}}]);
