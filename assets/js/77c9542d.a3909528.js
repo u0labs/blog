@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[4908],{4805:e=>{e.exports=JSON.parse('{"tag":{"label":"epigenetics","permalink":"/tags/epigenetics","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/epigenetics","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
