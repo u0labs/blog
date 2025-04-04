@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6108],{7390:a=>{a.exports=JSON.parse('{"tag":{"label":"mental focus","permalink":"/tags/mental-focus","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/mental-focus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
