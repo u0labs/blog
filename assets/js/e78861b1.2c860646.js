@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7407],{2421:a=>{a.exports=JSON.parse('{"tag":{"label":"sauna","permalink":"/tags/sauna","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/sauna","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
