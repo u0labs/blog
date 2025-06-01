@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6805],{4983:t=>{t.exports=JSON.parse('{"tag":{"label":"gut health","permalink":"/tags/gut-health","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/gut-health","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

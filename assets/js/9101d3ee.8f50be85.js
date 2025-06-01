@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[569],{600:e=>{e.exports=JSON.parse('{"tag":{"label":"busy schedule","permalink":"/tags/busy-schedule","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/busy-schedule","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

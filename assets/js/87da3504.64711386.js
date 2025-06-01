@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[9213],{4064:t=>{t.exports=JSON.parse('{"tag":{"label":"athletes","permalink":"/tags/athletes","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/athletes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
