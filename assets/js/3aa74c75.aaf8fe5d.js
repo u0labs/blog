@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[4008],{7412:a=>{a.exports=JSON.parse('{"tag":{"label":"wearables","permalink":"/tags/wearables","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/wearables","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
