@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3788],{265:t=>{t.exports=JSON.parse('{"tag":{"label":"technology","permalink":"/tags/technology","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/technology","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
