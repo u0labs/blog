@@ -2,11 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.wods.ai/</id>
     <title>wods.ai Blog</title>
-    <updated>2025-06-15T22:20:13.000Z</updated>
+    <updated>2025-06-22T22:18:17.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.wods.ai/"/>
     <subtitle>wods.ai Blog</subtitle>
     <icon>https://blog.wods.ai/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Smartphone Velocity Based Training Revolution]]></title>
+        <id>https://blog.wods.ai/smartphone-velocity-based-training</id>
+        <link href="https://blog.wods.ai/smartphone-velocity-based-training"/>
+        <updated>2025-06-22T22:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Smartphone Velocity Based Training Revolution]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Smartphone Velocity Based Training Revolution" src="https://blog.wods.ai/assets/images/image-64ab80ebe6c09489bff5760f0322a075.png" width="1024" height="1024" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="https://blog.wods.ai/smartphone-velocity-based-training#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2>
+<p>In the fast-evolving world of fitness, the tools we use to measure progress are just as important as the workouts themselves. Velocity-based training (VBT) has long been the guarded secret of elite strength coaches, using expensive linear transducers and force plates to fine-tune training loads and avoid unnecessary fatigue. But for many athletes and fitness enthusiasts—often juggling limited budgets and busy schedules—a high-tech device costing as much as a college semester simply isn’t feasible.</p>
+<p>Enter a game-changing solution: open-source, computer-vision tools that transform your smartphone camera into a potent, affordable VBT lab. Projects like OpenBar are harnessing the power of crowd-sourced data and machine learning, democratizing access to training insights once reserved for elite research laboratories [1][3]. Here, we dive into the research, outline the science behind this camera-first revolution, and offer practical, step-by-step advice for athletes striving for that next personal record—all while addressing the everyday challenges faced in the gym.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-can-a-phone-really-see-what-a-transducer-feels">1. Can a Phone Really See What a Transducer Feels?<a href="https://blog.wods.ai/smartphone-velocity-based-training#1-can-a-phone-really-see-what-a-transducer-feels" class="hash-link" aria-label="Direct link to 1. Can a Phone Really See What a Transducer Feels?" title="Direct link to 1. Can a Phone Really See What a Transducer Feels?">​</a></h2>
+<p>Recent studies have rigorously tested popular pose-estimation algorithms—such as YOLO Pose, OpenPose, and DeepLabCut—with real-world gym footage. The findings are promising:</p>
+<ul>
+<li>When conditions are optimal (i.e., good lighting and a side-on camera angle), key-point detection accuracy can reach around 83% [1].</li>
+<li>Tools like Pose2Sim and PosePipe now allow non-programmers to generate 3D bar paths in minutes rather than months [1][3].</li>
+<li>However, challenges remain: accuracy can falter if the bar is obscured by a spotter, if the camera is at an awkward angle, or if the gym environment is cluttered like a nightclub [1][4].</li>
+</ul>
+<p><strong>Action step:</strong> For best results, position your smartphone at waist-to-head height, roughly eight to ten feet from where the lift occurs. Ensure the bar is moving perpendicular to the lens. Good lighting and high-contrast clothing can also markedly reduce errors in key-point detection.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-establishing-benchmarks-in-a-sea-of-variability">2. Establishing Benchmarks in a Sea of Variability<a href="https://blog.wods.ai/smartphone-velocity-based-training#2-establishing-benchmarks-in-a-sea-of-variability" class="hash-link" aria-label="Direct link to 2. Establishing Benchmarks in a Sea of Variability" title="Direct link to 2. Establishing Benchmarks in a Sea of Variability">​</a></h2>
+<p>Unlike the well-established heart-rate zones used by runners, there isn’t yet a universal "bar-speed zone" for strength training. Most coaches currently develop individualized load-velocity profiles or apply broad velocity-loss cut-offs—typically set between 10% and 25%—to decide when to end a set [2]. This absence of standardized reference is exactly what crowd-sourced projects like OpenBar aim to address. Imagine a Strava-like leaderboard for bench press velocities, tailored to your unique performance metrics.</p>
+<p><strong>Action step:</strong> Begin tracking your own bar speeds at different loads (for example, 40%, 60%, and 80% of your one-repetition maximum). Over time, you’ll develop a personalized velocity profile—a “fingerprint” that can inform your auto-regulation strategy far more effectively than generic tables ever could.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-video-meets-hardware-finding-common-ground">3. Video Meets Hardware: Finding Common Ground<a href="https://blog.wods.ai/smartphone-velocity-based-training#3-video-meets-hardware-finding-common-ground" class="hash-link" aria-label="Direct link to 3. Video Meets Hardware: Finding Common Ground" title="Direct link to 3. Video Meets Hardware: Finding Common Ground">​</a></h2>
+<p>For most moderate loads (30–70% of 1RM), velocities captured on video align closely with those measured by linear transducers, often differing by only ±0.03 m/s [5][6]. However, at heavier loads or in less-than-ideal conditions (like dim lighting), discrepancies can increase. This means that while video analysis is excellent for day-to-day programming, world-class athletes attempting record-breaking lifts might still want periodic calibration against dedicated hardware.</p>
+<p>Think of it as your smartphone’s GPS: reliable for daily navigation, yet professional pilots rely on multiple systems before takeoff.</p>
+<p><strong>Action step:</strong> If you’re coaching at a collegiate or pro level, try a side-by-side test where you film a set while also using a transducer. Use the resulting data to calibrate your video measurements—ensuring you keep the accuracy needed for high-stakes competition.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4-pixels-as-an-indicator-of-effort">4. Pixels as an Indicator of Effort<a href="https://blog.wods.ai/smartphone-velocity-based-training#4-pixels-as-an-indicator-of-effort" class="hash-link" aria-label="Direct link to 4. Pixels as an Indicator of Effort" title="Direct link to 4. Pixels as an Indicator of Effort">​</a></h2>
+<p>Bar speed isn’t merely a number—it's a clear window into muscular fatigue. A rapid drop in velocity (say, more than 20% during a set) is strongly correlated with an increase in perceived exertion and the approach of muscular failure [2][5]. Thanks to modern smartphone apps, these velocity-loss percentages can now be monitored in real time. This immediate feedback allows athletes to terminate a set before additional repetitions become unproductive, ensuring quality over quantity.</p>
+<p><strong>Action step:</strong> Experiment with setting a velocity-loss threshold. On power development days, consider ending your set with a 10% drop in speed, whereas for hypertrophy training, a 20–25% drop might be acceptable. Notice how these adjustments affect your recovery and progression in subsequent sessions.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5-democratizing-auto-regulation">5. Democratizing Auto-Regulation<a href="https://blog.wods.ai/smartphone-velocity-based-training#5-democratizing-auto-regulation" class="hash-link" aria-label="Direct link to 5. Democratizing Auto-Regulation" title="Direct link to 5. Democratizing Auto-Regulation">​</a></h2>
+<p>The expensive linear transducers offer around 98% accuracy but are out of reach for many due to their high costs—sometimes as much as a used car. Video analysis, while slightly less precise, is expanding access to VBT for schools, community gyms, and even garage lifters. This shift is transforming VBT from a niche luxury into a standard practice that could benefit athletes worldwide [6].</p>
+<p><strong>Action step:</strong> Begin with free or low-cost apps that leverage open-source code. As platforms like OpenBar continue to develop and incorporate larger datasets, you can expect regular software updates that improve accuracy without the need for additional hardware expenses.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="6-overcoming-practical-pitfalls">6. Overcoming Practical Pitfalls<a href="https://blog.wods.ai/smartphone-velocity-based-training#6-overcoming-practical-pitfalls" class="hash-link" aria-label="Direct link to 6. Overcoming Practical Pitfalls" title="Direct link to 6. Overcoming Practical Pitfalls">​</a></h2>
+<p>Even the most promising technologies have their challenges, especially in a dynamic environment like the gym. Here are some common issues—and how to tackle them:</p>
+<ol>
+<li><strong>Occlusion:</strong> Ensure that spotters are positioned off to the side rather than directly in line with the camera.</li>
+<li><strong>Camera Shake:</strong> Utilize a stable tripod; shaky footage translates to unreliable data.</li>
+<li><strong>Lighting:</strong> Choose well-lit environments. If you wouldn’t record quality content for social media, avoid filming your lifts there.</li>
+<li><strong>Background Clutter:</strong> Reduce distractions from mirrors, other gym-goers, or moving equipment that might confuse the vision algorithms [1][4].</li>
+</ol>
+<p>Treat your smartphone like a mini sports-science laboratory: stable, well-lit, and strategically positioned for the best measurement accuracy.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://blog.wods.ai/smartphone-velocity-based-training#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>With smartphones entering the realm of scientific measurement through open-source computer-vision tools, the future of velocity-based training looks more accessible than ever. While high-end transducers remain the gold standard for elite-level competition, video-based systems provide a practical and affordable solution for everyday training. Their ability to deliver near-instant feedback on fatigue and effort bridges the gap between expensive lab equipment and the realities of daily workouts.</p>
+<p>For many athletes and coaches, the biggest opportunity lies in harnessing crowd-sourced data to create global benchmarks for lifting performance—differentiated by age, gender, and sport. Until that vision is fully realized, the action is clear: set up your phone, record your lifts with intentional precision, and let the pixels guide you toward your next personal best.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="references">References<a href="https://blog.wods.ai/smartphone-velocity-based-training#references" class="hash-link" aria-label="Direct link to References" title="Direct link to References">​</a></h2>
+<p>[1] Porta, E., Calatayud, A., et al. (2021). Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics—Part 1: Robustness. <em>Sensors</em>, 21(19), 6530. Retrieved from <a href="https://www.mdpi.com/1424-8220/21/19/6530" target="_blank" rel="noopener noreferrer">https://www.mdpi.com/1424-8220/21/19/6530</a></p>
+<p>[2] Faulks, T., Sansone, P., &amp; Walter, S. (2024). A Systematic Review of Lower Limb Strength Tests Used in Elite Basketball. <em>Sports (Basel)</em>. Retrieved from <a href="https://www.mdpi.com/2075-4663/12/10/262" target="_blank" rel="noopener noreferrer">https://www.mdpi.com/2075-4663/12/10/262</a></p>
+<p>[3] Andriluka, M., et al. (2018). PoseTrack: A Benchmark for Human Pose Estimation and Tracking. <em>arXiv preprint</em> arXiv:1710.10000. Retrieved from <a href="https://arxiv.org/abs/1710.10000" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/1710.10000</a></p>
+<p>[4] OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics. <em>arXiv preprint</em> arXiv:2406.09788. Retrieved from <a href="https://arxiv.org/abs/2406.09788" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2406.09788</a></p>
+<p>[5] Forelli, F., et al. (2025). Velocity-Based Training in Mid- and Late-Stage Rehabilitation After Anterior Cruciate Ligament Reconstruction: A Narrative Review and Practical Guidelines. <em>BMJ Open Sport &amp; Exercise Medicine</em>.</p>
+<p>[6] Weakley, J. J. S., et al. (2021). The Validity and Reliability of Commercially Available Resistance Training Monitoring Devices: A Systematic Review. <em>Sports Medicine Open</em>, 7, 45. Retrieved from <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7900050/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7900050/</a></p>
+<p>[7] Zoffoli, L., Zanuso, S., &amp; Biscarini, A. (2025). Effects on Force, Velocity, Power, and Muscle Activation of Resistances with Variable Inertia Generated by Programmable Electromechanical Motors During Explosive Chest Press Exercises. <em>Bioengineering (Basel)</em>, 12(3), 154. Retrieved from <a href="https://www.mdpi.com/2306-5354/12/3/154" target="_blank" rel="noopener noreferrer">https://www.mdpi.com/2306-5354/12/3/154</a></p>]]></content>
+        <author>
+            <name>wodsai</name>
+            <uri>https://wods.ai</uri>
+        </author>
+        <category label="velocity based training" term="velocity based training"/>
+        <category label="smartphone" term="smartphone"/>
+        <category label="computer vision" term="computer vision"/>
+        <category label="open source" term="open source"/>
+        <category label="strength training" term="strength training"/>
+        <category label="fitness technology" term="fitness technology"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Personalized Hydration With the Sodium Flux Index]]></title>
         <id>https://blog.wods.ai/sodium-flux-index-athletic-hydration</id>

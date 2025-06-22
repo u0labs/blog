@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8808],{8273:a=>{a.exports=JSON.parse('{"tag":{"label":"smartphone","permalink":"/tags/smartphone","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/smartphone","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
