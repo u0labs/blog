@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6899],{8522:s=>{s.exports=JSON.parse('{"tag":{"label":"fitness","permalink":"/tags/fitness","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/fitness","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

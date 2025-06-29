@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3404],{140:e=>{e.exports=JSON.parse('{"tag":{"label":"sleep","permalink":"/tags/sleep","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/sleep","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
