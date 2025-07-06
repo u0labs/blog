@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3186],{6675:a=>{a.exports=JSON.parse('{"tag":{"label":"cardio","permalink":"/tags/cardio","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/cardio","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
