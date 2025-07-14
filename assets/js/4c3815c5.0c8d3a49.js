@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[4195],{798:t=>{t.exports=JSON.parse('{"tag":{"label":"leg strength","permalink":"/tags/leg-strength","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/leg-strength","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
